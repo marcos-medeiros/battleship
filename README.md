@@ -30,6 +30,23 @@ Open your git bash and cd to the location you'd like to put your files the run t
 git clone https://github.com/marcos-medeiros/battleship.git
 ```
 
+After that, cd to the repository directory and run:
+
+```console
+npm i
+```
+This will install all dependencies and get you ready to go.
+
+After that, just open the index.html file in the dist folder and you'll be able to play in your browser.
+
+## Testing
+
+To run the tests, run the command below in the terminal.
+
+```console
+npm test
+```
+
 ## Authors
 
 👤 **Marcos Medeiros**
