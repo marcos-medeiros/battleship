@@ -47,6 +47,11 @@ To run the tests, run the command below in the terminal.
 npm test
 ```
 
+## Next Features
+
+- Implement levels of difficulty  for the AI (easy, medium, hard).
+- Implement two player mode.
+
 ## Authors
 
 👤 **Marcos Medeiros**
